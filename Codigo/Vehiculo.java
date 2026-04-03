@@ -20,7 +20,7 @@ public class Vehiculo { // Se define la clase principal llamada Vehiculo
         System.out.println("Ingrese el modelo:"); // Se solicita el modelo
         modelo = sc.nextLine(); // Se guarda el modelo ingresado
 
-        System.out.println("Ingrese la cilindrada:"); // Se solicita la cilindrada
+        System.out.println("Ingrese la cilindrada:"); // Se solicita la cilindrada del vehiculo
         cilindrada = sc.nextInt(); // Se captura un número entero
 
         sc.nextLine(); // Limpia el buffer (evita errores al leer Strings después de int)
