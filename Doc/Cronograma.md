@@ -1,6 +1,6 @@
 # Cronograma del Proyecto
 
-Para el desarrollo del sistema se definieron las siguientes fases, considerando un proceso ordenado desde el análisis hasta la entrega final:
+Para el desarrollo del sistema se definieron las siguientes semanas, considerando un proceso ordenado desde el análisis hasta la entrega final:
 
 ## Semana 1 – Análisis y planificación
 - Revisión del caso de estudio planteado.
