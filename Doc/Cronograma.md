@@ -1,28 +1,28 @@
 # Cronograma del Proyecto
+# Cronograma del Proyecto
 
-## Planificación inicial
+Para el desarrollo del sistema se definieron las siguientes fases, considerando un proceso ordenado desde el análisis hasta la entrega final:
 
-| Día | Actividad |
-|----|----------|
-| Día 1 | Instalación del JDK y configuración del entorno |
-| Día 2 | Desarrollo del código fuente en Java |
-| Día 3 | Compilación del programa mediante CMD |
-| Día 4 | Ejecución y pruebas del sistema |
-| Día 5 | Documentación del código y proceso |
-| Día 6 | Creación del repositorio en GitHub |
-| Día 7 | Subida de archivos y evidencias |
+## Semana 1 – Análisis y planificación
+- Revisión del caso de estudio planteado.
+- Identificación de requerimientos funcionales y no funcionales.
+- Planificación general del desarrollo del sistema.
 
----
+## Semana 2 – Desarrollo del programa
+- Creación del código fuente en lenguaje Java.
+- Implementación de entrada y salida de datos mediante consola.
+- Uso de variables y estructura básica del programa.
 
-## Fases del desarrollo
+## Semana 3 – Compilación y pruebas
+- Compilación del programa utilizando `javac` desde la línea de comandos.
+- Ejecución del programa mediante la JVM con el comando `java`.
+- Pruebas de funcionamiento y corrección de errores detectados.
 
-1. Análisis de requerimientos  
-2. Desarrollo del código  
-3. Pruebas del sistema  
-4. Documentación  
-5. Publicación en GitHub  
-
----
+## Semana 4 – Documentación y entrega
+- Elaboración del informe final del proyecto.
+- Documentación del proceso de desarrollo, compilación y ejecución.
+- Creación y organización del repositorio en GitHub.
+- Revisión final y preparación de la entrega.
 
 ## Observación
 El cronograma puede ajustarse dependiendo del avance del desarrollo, pero permite tener una planificación clara del proyecto.
