@@ -1,23 +1,21 @@
 # Proyecto Java AIEP
 
 ## Descripción
-
 Este proyecto consiste en el desarrollo de un programa en lenguaje Java que permite ingresar datos de un vehículo mediante la consola, utilizando la clase Scanner para capturar información desde el teclado.
 
 El programa solicita datos como marca, modelo, cilindrada, tipo de combustible y capacidad de pasajeros, para luego mostrar estos datos en pantalla.
 
 El desarrollo fue realizado sin utilizar un entorno de desarrollo (IDE), trabajando únicamente con la línea de comandos (CMD) y el compilador javac, lo que permite comprender de mejor forma el proceso de compilación y ejecución en Java.
 
-Además, el proyecto se complementa con el análisis de un caso de estudio relacionado con una empresa de distribución, donde se definen requerimientos y necesidades del sistema.
+Además, el proyecto se complementa con el análisis de un caso de estudio relacionado con una empresa de distribución, donde se definen requerimientos del sistema.
 
 ---
 
 ## Tecnologías utilizadas
-
-- Lenguaje Java  
-- JDK (Java Development Kit)  
-- Consola CMD (símbolo del sistema)  
-- GitHub  
+- Lenguaje Java
+- JDK (Java Development Kit)
+- Consola CMD (símbolo del sistema)
+- GitHub
 
 ---
 
@@ -35,11 +33,11 @@ java Vehiculo
 
 ---
 
-# Requerimientos del Caso de Estudio
+## Requerimientos del Caso de Estudio
 
 En base al problema planteado de la empresa de distribución de alimentos, se identificaron los siguientes requerimientos del sistema:
 
-## Requerimientos funcionales
+### Requerimientos funcionales
 - El sistema debe permitir ingresar el monto total de la compra realizada por el cliente.
 - El sistema debe calcular automáticamente el costo del despacho según el monto de compra.
 - El sistema debe aplicar despacho gratuito cuando la compra sea superior a $50.000.
@@ -48,36 +46,36 @@ En base al problema planteado de la empresa de distribución de alimentos, se id
 - El sistema debe mostrar al usuario el costo total del despacho.
 - El sistema debe permitir el registro de usuarios mediante cuentas de correo electrónico.
 
-## Requerimientos no funcionales
+### Requerimientos no funcionales
 - El sistema debe ser fácil de utilizar para cualquier tipo de usuario.
 - El sistema debe responder de manera rápida al ingreso de datos.
 - El sistema debe ser accesible desde dispositivos móviles.
 - El sistema debe resguardar la información de los usuarios.
 - El sistema debe presentar la información de forma clara en pantalla.
 
-
 ---
 
-## Historias de usuario
+## Documentación adicional
 
-- Como cliente, quiero calcular el costo de despacho para saber cuánto debo pagar  
-- Como cliente, quiero saber si tengo envío gratuito según el monto de compra  
-- Como usuario, quiero registrarme en el sistema para acceder a sus funcionalidades  
+Las historias de usuario y el cronograma del proyecto se encuentran disponibles en la carpeta `docs` del repositorio.
 
 ---
-
 
 ## Proceso realizado
-
-1. Instalación del JDK  
-2. Creación del código fuente en Java  
-3. Compilación mediante el comando javac  
-4. Ejecución del programa con java  
-5. Pruebas de funcionamiento  
-6. Documentación del proceso  
-7. Creación del repositorio en GitHub  
+- Instalación del JDK
+- Creación del código fuente en Java
+- Compilación mediante el comando `javac`
+- Ejecución del programa con `java`
+- Pruebas de funcionamiento
+- Documentación del proceso
+- Creación del repositorio en GitHub
 
 ---
+
+## Autor
+Luciano Quezada  
+Estudiante de Programación y Análisis de Sistemas  
+AIEP
 
 ## Autor
 
