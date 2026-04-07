@@ -1,5 +1,4 @@
 # Cronograma del Proyecto
-# Cronograma del Proyecto
 
 Para el desarrollo del sistema se definieron las siguientes fases, considerando un proceso ordenado desde el análisis hasta la entrega final:
 
