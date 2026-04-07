@@ -35,23 +35,26 @@ java Vehiculo
 
 ---
 
-## Requerimientos funcionales (Caso de estudio)
+# Requerimientos del Caso de Estudio
 
-- El sistema debe calcular el costo de despacho según el monto de compra  
-- El sistema debe aplicar despacho gratuito para compras superiores a $50.000  
-- El sistema debe calcular el costo por kilómetro recorrido  
-- El sistema debe permitir el registro de usuarios mediante cuentas  
-- El sistema debe mostrar el costo final del despacho al usuario  
+En base al problema planteado de la empresa de distribución de alimentos, se identificaron los siguientes requerimientos del sistema:
 
----
+## Requerimientos funcionales
+- El sistema debe permitir ingresar el monto total de la compra realizada por el cliente.
+- El sistema debe calcular automáticamente el costo del despacho según el monto de compra.
+- El sistema debe aplicar despacho gratuito cuando la compra sea superior a $50.000.
+- El sistema debe calcular el costo por kilómetro recorrido cuando el monto esté entre $25.000 y $49.999.
+- El sistema debe aplicar una tarifa mayor por kilómetro cuando el monto sea menor a $25.000.
+- El sistema debe mostrar al usuario el costo total del despacho.
+- El sistema debe permitir el registro de usuarios mediante cuentas de correo electrónico.
 
 ## Requerimientos no funcionales
+- El sistema debe ser fácil de utilizar para cualquier tipo de usuario.
+- El sistema debe responder de manera rápida al ingreso de datos.
+- El sistema debe ser accesible desde dispositivos móviles.
+- El sistema debe resguardar la información de los usuarios.
+- El sistema debe presentar la información de forma clara en pantalla.
 
-- El sistema debe ser fácil de usar para cualquier usuario  
-- El sistema debe responder de forma rápida  
-- El sistema debe ejecutarse correctamente en distintos dispositivos  
-- El sistema debe mantener la información del usuario segura  
-- El código debe ser claro, ordenado y comentado  
 
 ---
 
