@@ -1,6 +1,9 @@
 # Proyecto Java AIEP
 
 ## Descripción
+
+---
+
 Este proyecto consiste en el desarrollo de un programa en lenguaje Java que permite ingresar datos de un vehículo mediante la consola, utilizando la clase Scanner para capturar información desde el teclado.
 
 El programa solicita datos como marca, modelo, cilindrada, tipo de combustible y capacidad de pasajeros, para luego mostrar estos datos en pantalla.
@@ -22,15 +25,14 @@ Además, el proyecto se complementa con el análisis de un caso de estudio relac
 ## Ejecución del programa
 
 ### Compilación
-
+```
 javac Vehiculo.java
-
+```
 
 ### Ejecución
-
+```
 java Vehiculo
-
-
+```
 ---
 
 ## Requerimientos del Caso de Estudio
@@ -76,3 +78,5 @@ Las historias de usuario y el cronograma del proyecto se encuentran disponibles 
 Luciano Quezada  
 Estudiante de Programación y Análisis de Sistemas  
 AIEP
+
+## Este repositorio contiene además la documentación completa del proyecto, incluyendo historias de usuario, cronograma y evidencias del proceso de desarrollo.
